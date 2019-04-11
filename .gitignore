@@ -2,7 +2,7 @@
 *.o
 *.a
 *.so
-python/*.gif
+#python/*.gif
 examples/fbuf
 examples/step
 examples/test
